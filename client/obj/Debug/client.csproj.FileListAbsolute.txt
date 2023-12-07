@@ -16,3 +16,13 @@ C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programm
 C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
 C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
 C:\Users\cs408-lab\Downloads\drive-download-20211021T182455Z-001\socket_programming_client_server\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\client\client\bin\Debug\client.exe.config
+\\Mac\Home\Desktop\client\client\bin\Debug\client.exe
+\\Mac\Home\Desktop\client\client\bin\Debug\client.pdb
+\\Mac\Home\Desktop\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\client\client\obj\Debug\client.Form1.resources
+\\Mac\Home\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+\\Mac\Home\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\client\client\obj\Debug\client.exe
+\\Mac\Home\Desktop\client\client\obj\Debug\client.pdb
